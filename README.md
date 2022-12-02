@@ -1,9 +1,13 @@
+⚠️ This project has not been reviewed yet for a production usage. Please be careful using it.
 
-Occupations / métiers ROME et OGR, en JSON et SQL.
+
+# Présentation
+
+Occupations / liste des familles de métiers ROME et OGR, en JSON et SQL.
 
 Données importées depuis le référentiel officiel data.gouv.fr.
 
-## Données
+# Données
 
 http://pole-emploi.org/files/live/sites/peorg/files/documents/Statistiques-et-analyses/Open-data/ROME/ROME_ArboPrincipale.xlsx
 
